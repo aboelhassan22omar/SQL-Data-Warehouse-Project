@@ -21,7 +21,7 @@ This project implements a **complete data warehousing solution** using SQL Serve
 All project phases have been successfully completed:
 
 <p align="center">
-  <img src="docs/progress.png" alt="Project Progress" width="600">
+  <img src="docs/image.png" alt="High Level Architecture" width="700">
 </p>
 
 | Phase | Status |
