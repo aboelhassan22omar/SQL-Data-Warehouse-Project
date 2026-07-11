@@ -21,7 +21,7 @@ This project implements a **complete data warehousing solution** using SQL Serve
 All project phases have been successfully completed:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aboelhassan22omar/SQL-Data-Warehouse-Project/main/docs/progress.png" alt="Project Progress" width="600">
+  <img src="docs/project%20progress.png" alt="Project Progress" width="600">
 </p>
 
 | Phase | Status |
