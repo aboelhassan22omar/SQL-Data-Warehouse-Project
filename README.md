@@ -16,6 +16,25 @@ This project implements a **complete data warehousing solution** using SQL Serve
 
 ---
 
+## ✅ Project Progress
+
+All project phases have been successfully completed:
+
+<p align="center">
+  <img src="docs/progress.png" alt="Project Progress" width="600">
+</p>
+
+| Phase | Status |
+| :--- | :--- |
+| Requirements Analysis | ✅ 100% |
+| Design Data Architecture | ✅ 100% |
+| Project Initialization | ✅ 100% |
+| Build Bronze Layer | ✅ 100% |
+| Build Silver Layer | ✅ 100% |
+| Build Gold Layer | ✅ 100% |
+
+---
+
 ## 🏛️ Architecture (Medallion Pattern)
 
 The project follows the **Medallion Architecture** with three layers:
@@ -138,6 +157,8 @@ data-warehouse-project/
 ```
 ---
 
+
+---
 
 ## 🛠️ Technologies Used
 
